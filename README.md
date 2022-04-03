@@ -1,0 +1,2 @@
+# SMC
+Simple Math Calculator
