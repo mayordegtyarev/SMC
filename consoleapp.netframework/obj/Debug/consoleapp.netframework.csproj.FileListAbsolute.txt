@@ -1,0 +1,8 @@
+D:\Projects\consoleapp.netframework\consoleapp.netframework\bin\Debug\consoleapp.netframework.exe.config
+D:\Projects\consoleapp.netframework\consoleapp.netframework\bin\Debug\consoleapp.netframework.exe
+D:\Projects\consoleapp.netframework\consoleapp.netframework\bin\Debug\consoleapp.netframework.pdb
+D:\Projects\consoleapp.netframework\consoleapp.netframework\obj\Debug\consoleapp.netframework.csproj.AssemblyReference.cache
+D:\Projects\consoleapp.netframework\consoleapp.netframework\obj\Debug\consoleapp.netframework.csproj.SuggestedBindingRedirects.cache
+D:\Projects\consoleapp.netframework\consoleapp.netframework\obj\Debug\consoleapp.netframework.csproj.CoreCompileInputs.cache
+D:\Projects\consoleapp.netframework\consoleapp.netframework\obj\Debug\consoleapp.netframework.exe
+D:\Projects\consoleapp.netframework\consoleapp.netframework\obj\Debug\consoleapp.netframework.pdb
