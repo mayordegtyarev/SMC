@@ -8,3 +8,8 @@ Functions:
 1 - average of 2 numbers
 2 - sum of 3 numbers
 3 - сurrency сonverter
+
+ChangeLog:
+
+v1.0.0 - 03.04.2022
+- release
