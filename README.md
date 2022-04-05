@@ -15,4 +15,4 @@ v1.0.0 - 03.04.2022
 - release
 
 v1.0.1 - 04.04.2022
-- "sum of 3 numbers" now supports fractional numbers (use ",")
+- "sum of three numbers" now supports fractional numbers (use ",")
