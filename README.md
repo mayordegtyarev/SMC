@@ -22,3 +22,11 @@ v1.1.0 - 06.04.2022
 - division into Russian and English versions (translation is planned in the future)
 - the name of the currency converter has been changed from "Конвертер валют (Рубли - Доллары)" (Currency converter (Ruble - Dollar)) to "Конвертер валют (Доллар:Рубль)" (Currency converter (Dollar:Ruble))
 - the name of the sum of three numbers has been changed from "Сумма 3х чисел" (Sum of 3 numbers) to "Сумма трех чисел" (Sum of three numbers) 
+
+v1.2.0 - 10.04.2022
+- the program has 2 versions - rus & eng
+- exchange rate updated (rate 10.04.2022)
+- changed the text of the current exchange rate from "1 Доллар США = ## Российский рубль" to "Доллар США = ## Российских рубль"
+- main menu translated into English (eng version)
+- text of errors 1, 2, 3 changed
+- errors translated into English (eng version)
