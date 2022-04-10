@@ -26,7 +26,7 @@ v1.1.0 - 06.04.2022
 v1.2.0 - 10.04.2022
 - the program has 2 versions - rus & eng
 - exchange rate updated (rate 10.04.2022)
-- changed the text of the current exchange rate from "1 Доллар США = ## Российский рубль" to "Доллар США = ## Российских рубль"
+- changed the text of the current exchange rate from "1 Доллар США = ## Российский рубль" to "Доллар США = ## Российских рубль" (rus version)
 - main menu translated into English (eng version)
 - text of errors 1, 2, 3 changed
 - errors translated into English (eng version)
