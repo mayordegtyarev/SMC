@@ -1,5 +1,5 @@
 # SMC
-Simple Math Calculator (1.1.0)
+Simple Math Calculator (1.2.0)
 
 At the moment program has only 3 functions;
 Adding new functions to the program at the time of 2022 is not planned, there will be only minor fixes.
