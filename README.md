@@ -30,3 +30,6 @@ v1.2.0 - 10.04.2022
 - main menu translated into English (eng version)
 - text of errors 1, 2, 3 changed
 - errors translated into English (eng version)
+
+v1.2.1 - 15.04.2022
+- "Find the arithmetic mean of two numbers" translated into English (eng version)
