@@ -5,9 +5,9 @@ At the moment program has only 3 functions;
 Adding new functions to the program at the time of 2022 is not planned, there will be only minor fixes.
 
 Functions:
-1 - average of two numbers
-2 - sum of three numbers
-3 - сurrency сonverter
+1 - Find the arithmetic mean of two numbers
+2 - Find the sum of three numbers
+3 - Currency converter (Dollar:Ruble)
 
 ChangeLog:
 
