@@ -1,5 +1,5 @@
 # SMC
-Simple Math Calculator (1.2.1)
+Simple Math Calculator (1.2.2)
 
 At the moment program has only 3 functions;
 Adding new functions to the program at the time of 2022 is not planned, there will be only minor fixes.
@@ -33,3 +33,6 @@ v1.2.0 - 10.04.2022
 
 v1.2.1 - 15.04.2022
 - "Find the arithmetic mean of two numbers" translated into English (eng version)
+
+v1.2.2 - 26.04.2022
+- "Find the sum of three numbers" translated into English (eng version)
