@@ -15,7 +15,7 @@ v1.0.0 - 03.04.2022
 - release
 
 v1.0.1 - 04.04.2022
-- "sum of three numbers" now supports fractional numbers (use ",")
+- "Find the sum of three numbers" now supports fractional numbers (use ",")
 
 v1.1.0 - 06.04.2022
 - the name and version of the program is written in the main menu
