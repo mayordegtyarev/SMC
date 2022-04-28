@@ -2,7 +2,7 @@
 Simple Math Calculator (1.2.3)
 
 At the moment program has only 3 functions;
-Adding new functions to the program at the time of 2022 is not planned, there will be only minor fixes.
+Support for the project is no longer planned, you can use the code to modify it under the "Apache-2.0 License".
 
 Functions:
 1 - Find the arithmetic mean of two numbers
