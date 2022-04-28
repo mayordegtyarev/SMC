@@ -1,5 +1,5 @@
 # SMC
-Simple Math Calculator (1.2.2)
+Simple Math Calculator (1.2.3)
 
 At the moment program has only 3 functions;
 Adding new functions to the program at the time of 2022 is not planned, there will be only minor fixes.
@@ -7,7 +7,7 @@ Adding new functions to the program at the time of 2022 is not planned, there wi
 Functions:
 1 - Find the arithmetic mean of two numbers
 2 - Find the sum of three numbers
-3 - Currency converter (Dollar:Ruble)
+3 - Currency converter
 
 ChangeLog:
 
@@ -36,3 +36,7 @@ v1.2.1 - 15.04.2022
 
 v1.2.2 - 26.04.2022
 - "Find the sum of three numbers" translated into English (eng version)
+
+v1.2.3 - 28.04.2022
+- "Currency converter" translated into English (eng version)
+- "Currency converter" now converts from ruble to dollar (eng version)
